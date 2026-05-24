@@ -1,9 +1,9 @@
 # Tugas 2 - Model Accessor & Scope
 
 ## Identitas
-- **Nama:** Hamdan Aldi
-- **Mata Kuliah:** Pemrograman Laravel
-- **Tugas:** Model Accessor & Scope
+- **Nama:** M. Hamdan Aldiansyah
+- **Mata Kuliah:** Pemrograman Web II
+- **Tugas:** Pertemuan 11
 
 ---
 
